@@ -41,6 +41,9 @@
 npm install -g https://mirrors.cloud.tencent.com/npm/@anthropic-ai/claude-code/-/claude-code-2.1.88.tgz
 ```
 
+<img width="626" height="370" alt="图片" src="https://github.com/user-attachments/assets/bcc1d094-f19d-4bd7-b53b-898399c6d117" />
+
+
 > 手慢无，不知道腾讯云的镜像缓存什么时候也没了
 
 ---
